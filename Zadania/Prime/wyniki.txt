@@ -1,0 +1,4 @@
+ile_B = 50; ile_p = 340; suma NIE jest pierwsza
+ile_B = 249; ile_p = 2973; suma NIE jest pierwsza
+ile_B = 1262; ile_p = 26411; suma NIE jest pierwsza
+
