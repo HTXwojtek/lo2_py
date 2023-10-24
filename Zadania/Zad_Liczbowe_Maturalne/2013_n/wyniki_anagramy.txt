@@ -1,0 +1,2 @@
+wiersze z anagramami: 258
+maksimum anagramów: 11

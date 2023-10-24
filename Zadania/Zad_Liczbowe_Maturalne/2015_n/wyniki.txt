@@ -1,0 +1,47 @@
+Zadanie 4.1. (0–3)
+
+Poprawna odpowiedŸ	
+422	
+
+Schemat punktowania
+3 p. – za podanie poprawnej odpowiedzi.
+2 p. – za uwzglêdnienie tylko 250 wierszy (wynik: 98).
+1 p. – za nieuwzglêdnienie ostatniego znaku w wierszu (wynik: 419).
+0 p. – za odpowiedŸ niepe³n¹ lub b³êdn¹ albo za brak odpowiedzi.
+ 
+Zadanie 4.2. (0–3)
+
+Poprawna odpowiedŸ	
+500 – liczba liczb podzielnych przez 2.	
+123 – liczba liczb podzielnych przez 8.	
+
+Schemat punktowania
+3 p. – za podanie prawid³owej liczby liczb podzielnych przez 8 oraz za podanie prawid³owej liczby liczb podzielnych przez 2.
+2 p. – za podanie prawid³owej liczby liczb podzielnych przez 8 albo za uwzglêdnienie tylko 250 wierszy (wynik: 121 liczb podzielnych przez 2, 27 liczb podzielnych przez 8).
+1 p. – za podanie prawid³owej liczby liczb podzielnych przez 2.
+0 p. – za odpowiedŸ niepe³n¹ lub b³êdn¹ albo za brak odpowiedzi.
+
+
+Zadanie 4.3. (0–6)
+
+
+Poprawna odpowiedŸ
+859	– numer wiersza zawieraj¹cego minimaln¹ liczbê.
+925	– numer wiersza zawieraj¹cego maksymaln¹ liczbê.
+
+Schemat punktowania
+
+6 p. – za prawid³owe podanie numeru wiersza zawieraj¹cego minimaln¹ liczbê oraz za prawid³owe podanie numeru wiersza zawieraj¹cego maksymaln¹ liczbê.
+4 p. – za uwzglêdnienie tylko 250 wierszy oraz podanie numerów wierszy zawieraj¹cych minimum i maksimum (wynik: 125 dla minimum, 107 dla maksimum).
+3 p. – za prawid³owe podanie numeru wiersza zawieraj¹cego minimaln¹ liczbê albo za prawid³owe podanie numeru wiersza zawieraj¹cego maksymaln¹ liczbê.
+2 p. – za uwzglêdnienie tylko 250 wierszy oraz podanie numeru wiersza zawieraj¹cego minimum (wynik: 125) albo maksimum (wynik: 107).
+0 p. – za odpowiedŸ niepe³n¹ lub b³êdn¹ albo za brak odpowiedzi.
+
+Uwaga: Nie przyznaje siê 5 p. i 1 p.
+
+
+2 p. – za poprawne liczby mieszkañców poszczególnych regionów oraz b³êdny wykres albo za b³ê dne liczby mieszkañców poszczególnych regionów oraz poprawny wykres kolumnowy bez opisu osi i legendy.
+0 p. – za odpowiedŸ niepe³n¹ lub b³êdn¹ albo za brak odpowiedzi.
+
+Uwaga: Nie przyznaje siê 1 p.
+

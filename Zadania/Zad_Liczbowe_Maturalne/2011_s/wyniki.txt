@@ -1,0 +1,27 @@
+Zadanie 6. a) (0–2)
+Poprawna odpowiedŸ
+W ca³ym pliku jest 497 liczb parzystych.
+2 p. – za podanie poprawnej odpowiedzi
+0 p. – za podanie niepoprawnej odpowiedzi albo jej brak
+
+Zadanie 6. b) (0–4)
+Poprawna odpowiedŸ
+Najwiêksza liczba w tym pliku to:
+1111101111110110 (zapisana w systemie dwójkowym),
+64502 (zapisana w systemie dziesiêtnym).
+4 p. – za poprawn¹ najwiêksz¹ liczbê w systemie dziesiêtnym i poprawn¹ najwiêksz¹ liczbê
+w systemie dwójkowym
+2 p. – za poprawn¹ najwiêksz¹ liczbê w systemie dziesiêtnym, albo za poprawn¹ najwiêksz¹
+liczbê w systemie dwójkowym
+0 p. – za niepoprawn¹ odpowiedŸ albo brak odpowiedzi
+
+Zadanie 6. c) (0–4)
+Poprawna odpowiedŸ
+W ca³ym pliku dok³adnie 9 cyfr ma 101 liczb. Ich suma w systemie dwójkowym jest równa
+1001100111110111.
+4 p. – za poprawn¹ liczbê liczb o d³ugoœci 9 i poprawn¹ sumê tych liczb w systemie
+dwójkowym
+3 p. – za poprawn¹ liczbê liczb o d³ugoœci 9 i poprawn¹ sumê tych liczb w systemie
+dziesiêtnym (39415)
+2 p. – za poprawn¹ liczbê liczb o d³ugoœci 9
+0 p. – za niepoprawn¹ odpowiedŸ albo brak odpowiedzi
