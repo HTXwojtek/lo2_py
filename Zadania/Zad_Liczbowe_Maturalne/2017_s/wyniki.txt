@@ -1,0 +1,36 @@
+Zadanie 4.1. (0–4)
+Schemat punktowania
+4 p. – za podanie wszystkich prawid³owych odpowiedzi w tym.
+2p. – za poprawn¹ liczbê s³ów dwucyklicznych (18).
+1p. – za liczbê s³ów dwucyklicznych ró¿ni¹c¹ siê o 1 od poprawnej (17 lub 19)
+1p. – za poprawn¹ najwiêksz¹ d³ugoœæ s³owa dwucyklicznego (32).
+1p. – za poprawnie podane najd³u¿szego s³owa dwucyklicznego (00100101100011100010010110001110).
+0 p. – za odpowiedŸ b³êdn¹ albo brak odpowiedzi.
+
+Poprawna odpowiedŸ
+Liczba s³ów dwucyklicznych 18
+Najwiêksza d³ugoœæ s³owa dwucyklicznego 32.
+Najd³u¿sze s³owo dwucykliczne 00100101100011100010010110001110
+
+Zadanie 4.2. (0–2)
+Schemat punktowania
+1 p. – za podanie prawid³ow¹ liczbê s³ów niepoprawnych.
+1 p. – za podanie prawid³ow¹ d³ugoœæ najkrótszego niepoprawnego napisu.
+0 p. – za odpowiedŸ b³êdn¹ albo brak odpowiedzi.
+
+Poprawna odpowiedŸ
+Prawid³owa liczba s³ów niepoprawnych – 359.
+Prawid³owa d³ugoœæ najkrótszego niepoprawnego napisu – 4.
+ 
+ 
+Zadanie 4.3. (0–4)
+
+Schemat punktowania
+2 p. – za podanie najwiêkszej liczby w zapisie dziesiêtnym
+2 p. – za podanie najwiêkszej liczby w zapisie binarnym.
+0 p. – za odpowiedŸ b³êdn¹ albo brak odpowiedzi.
+Uwaga: Nie przyznaje siê 1 p. i 3 p.
+Poprawna odpowiedŸ
+
+Najwiêksza liczba w zapisie dziesiêtnym 54885.
+Najwiêksza liczba w zapisie binarnym 1101011001100101.

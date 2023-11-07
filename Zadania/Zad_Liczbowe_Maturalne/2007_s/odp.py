@@ -108,7 +108,7 @@ def sum_digits(number):
     return sum
 
 l1 = l2 = l3 = lp = 0
-with open ('Ad5_1.txt', 'r') as file1, open ('Ad5_2.txt', 'r') as file2, open ('Ad5_3.txt', 'r') as file3:
+with open ('1', 'r') as file1, open ('2', 'r') as file2, open ('3', 'r') as file3:
     for line in file1:
         a = int(line)
         if super_b_prime(a):

@@ -1,0 +1,13 @@
+1.ile jest liczb pierwszych
+2.ile jest liczb złożonych
+3.ile jest liczb lustrzanych trzycyfrowych
+4.ile liczb doskonałych
+5.ile liczb armstronga
+6.ile liczb składa się z cyfr unikatowych
+7.ile liczb przynajmniej dwucyfrowych jest rosnących
+8.ile liczb składa się tylko z cyfr pierwszych
+9.które dwie liczby w pliku mają największy NWD
+10.ile wynosi najdłuzszy ciag liczb rosnących, wypisz ten ciag
+11.która liczba ma najwięcej anagramów, wypisz te liczby
+12.ile jest liczb rozkładających się na dokładnie 3 unikatowe czynniki pierwsze
+13.ile liczb posiada dokładnie 4 dzielniki nie wliczając 1 i samej siebie

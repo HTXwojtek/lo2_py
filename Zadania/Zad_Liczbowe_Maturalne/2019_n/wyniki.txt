@@ -1,0 +1,36 @@
+Zadanie 4.1. (0–3)
+Schemat punktowania
+3 p. – za prawid³ow¹ odpowiedŸ.
+2 p. – za podanie wyniku ró¿ ni¹cego siê o 1 (np. w przypadku pominiêcia liczby 1=30 lub liczenia od 0 zamiast od 1).
+1 p. – za podanie wyniku mniejszego od prawid³owego o 2 lub 3 (w przypadku pominiêcia przy zliczaniu maksymalnie trzech liczb).
+0 p. – za b³êdn¹ odpowiedŸ albo za brak odpowiedzi.
+
+Poprawna odpowiedŸ
+18
+
+Zadanie 4.2. (0–4)
+Schemat punktowania
+4 p. – za podanie prawid³owej odpowiedzi, w tym:
+1 p. – za ka¿d¹ poprawnie podan¹ liczbê w wyniku.
+0 p. – za b³êdn¹ odpowiedŸ albo za brak odpowiedzi.
+
+Poprawna odpowiedŸ
+2
+145
+1
+40585
+
+
+Zadanie 4.3. (0–5)
+Schemat punktowania
+5 p. – za podanie prawid³owej odpowiedzi, w tym:
+1 p. – za poprawnie podan¹ pierwsz¹ liczbê w ci¹gu,
+2	p. – za poprawnie podan¹ d³ugoœæ ci¹gu (lub 1 punkt – jeœli d³ugoœæ ci¹gu bêdzie ró¿ni³a siê od poprawnej o 1 np. z powodu zliczania od 0),
+2	p. – za poprawnie podany najwiêkszy wspólny dzielnik w ci¹gu.  
+4 p. – za podanie w odpowiedzi zestawu sk³adaj¹cego siê z liczby 56536 jako pierwszej w	ci¹gu, 149 jako d³ugoœci ci¹gu, oraz poprawnego wspólnego dzielnika – 74. Zestaw taki zdaj¹cy otrzyma w wyniku nieuwzglêdnienia faktu, ¿e pierwszy element ci¹gu mo¿e byæ jednoczeœnie ostatnim elementem ci¹gu poprzedniego spe³niaj¹cego warunki zadania.
+0 p. – za b³êdn¹ odpowiedŸ albo za brak odpowiedzi.
+
+Poprawna odpowiedŸ
+pierwsza liczba: 31968,
+d³ugoœæ ci¹gu: 150,
+dzielnik: 74
