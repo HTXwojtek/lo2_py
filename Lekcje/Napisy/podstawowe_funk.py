@@ -28,5 +28,5 @@ plik=open('napis.txt')
 wyrazy=plik.read().split()
 l=0
 for wyraz in wyrazy:
-    l+=rosnacy(wyrazy)
+    l+=rosnacy(wyraz)
 print(l)
