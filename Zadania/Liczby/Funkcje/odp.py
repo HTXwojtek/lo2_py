@@ -1,25 +1,25 @@
 import math
-
 def zlozone(liczba):
     if liczba<2:
         return 0
-    for i in range(2,int(math.sqrt(liczba)+1)):
-        if pierwsza(liczba):
-            return False
-    return True
+    for i in range(2, int(math.sqrt(liczba)+1)):
+        if liczba%i==0:
+            return 1
+    return 0
 
 def pierwsza(liczba):
-     for i in range(2,liczba//2+1):
-        if liczba%i==0:
-            return False
-     return True
-
-def perfect(liczba):
     if liczba<2:
         return 0
-    suma=1
-    for i in range(2,liczba//2+1):
-        suma+=i
+    for i in range(2, int(math.sqrt(liczba)+1)):
+        if liczba%i==0:
+            return 0
+    return 1
+
+def doskonala(liczba):
+    suma=0
+    for i in range(1, int(liczba//2+1)):
+        if liczba%i==0:
+            suma+=i
     return suma==liczba
 
 def nwd(a,b):
@@ -27,45 +27,38 @@ def nwd(a,b):
         a,b=b,a%b
     return a
 
+def niewzgledniepier(a,b):
+    if nwd(a,b)==1:
+        return 0
+    return 1
+
 def narcyz(liczba):
-    liczba2=liczba
     suma=0
+    liczba2=liczba
     dl=len(str(liczba))
-    while(liczba>0):
+    while liczba>0:
         suma+=(liczba%10)**dl
         liczba=liczba//10
-    return suma==liczba2
-
-plik=open('liczby.txt')
-suma_zl=0
-max_pier=0
-suma_dosk=0
-suma_pier=0
-suma_narc=0
-makspole=0
+    return liczba2==suma
+l1=maxpierwsza=makspole=maksa=maksb=l3=l4=l5=0
+plik=open('dane.txt')
 for linia in plik:
-    a,b=map(int,linia.split())
-    if zlozone(a):
-        suma_zl+=1
-    if zlozone(b):
-        suma_zl+=1
-    if pierwsza(a) and a>max_pier:
-        max_pier=a
+    a,b=map(int, linia.split())
+    l1+=zlozone(a)
+    l1+=zlozone(b)
+    if pierwsza(a):
+        maxpierwsza=max(maxpierwsza,a)
     if pierwsza(b):
-        max_pier=max(max_pier,b)
-    if perfect(a):
-        suma_dosk+=1
-    if perfect(b):
-        suma_dosk+=1
-    if nwd(a,b)!=1:
-        suma_pier+=1
-    if narcyz(a):
-        suma_narc+=1
-    if narcyz(b):
-        suma_narc+=1
+        maxpierwsza=max(maxpierwsza,b)
+    l3+=doskonala(a)
+    l3+=doskonala(b)
+    l4+=niewzgledniepier(a,b)
     if makspole<a*b:
         makspole=a*b
         maksa=a
         maksb=b
-
-print(max_pier,suma_zl,suma_pier,suma_dosk,suma_narc,maksa,maksb)
+    if narcyz(a):
+        print(a)
+    if narcyz(b):
+        print(b)
+print(f'zad 1: {l1}, zad 2: {maxpierwsza}, zad 3: {l3}, zad4: {l4}, zad5: makspole {makspole}, boki: {maksa}, {maksb}')

@@ -1,0 +1,34 @@
+a
+Za wyznaczenie najlepszej sumy (8) 
+  1 punkt. Za podanie i¿ najlepsza suma drugiego ci¹gu jest równa najlepszej sumie z poprzedniego ci¹gu 
+ 1 punkt. Za  uzasadnienie,  ¿e  równoœæ  wynika  z  faktu,  i¿  po  zamianie  podci¹gu liczb dodatnich na jego sumê wynik siê nie zmienia
+ 2 punkty. 
+
+b
+Za opis poprawnego algorytmu 
+2 punkty. 
+
+Za podanie najlepszej sumy z pliku dane5-1.txt (106) 
+1 punkt. 
+
+Za podanie najlepszej sumy z pliku dane5-2.txt (139) 
+2 punkty. 
+
+Za podanie najlepszej sumy z pliku dane5-3.txt (1342) 
+ 3 punkty.
+
+c
+Za opis poprawnego algorytmu: 
+-  o      z³o¿onoœci nxn 
+1 punkt, 
+-    o      z³o¿onoœci znacz¹co lepszej ni¿ nxn 3 punkty. 
+
+Za poprawne oszacowanie czasu dzia³ania algorytmu (liczby wykonywanych operacji)
+2 punkty.
+
+Za podanie najpopularniejszego elementu z ka¿dego pliku 
+(wystarczy podaæ jeden z wymienionych): 
+dane5-1.txt: -22, -15, 6, 19, 24 , 
+dane5-2.txt: -18, 18, 
+dane5-3.txt: 22, 
+3 punkty (po 1 punkcie za ka¿dy wynik w ca³oœci poprawny).

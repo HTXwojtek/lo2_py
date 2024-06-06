@@ -1,0 +1,10 @@
+Odpowiedzi do podpunktu a)
+Liczba slow wystepujacych wiecej niz jeden raz: 21
+Slowo o najwiekszej liczbie wystapien to: EBFAABCCBD
+Liczba jego wystapien jest rowna: 30
+
+Odpowiedz do podpunktu b)
+Liczb parzystych jest: 483
+
+Odpowiedz do podpunktu c)
+Liczba palindromow w pliku: 20
