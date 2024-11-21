@@ -1,3 +1,4 @@
+# potegi
 #iteracyjniue
 def pot_szybka_it(a,b):
     wynik=1
