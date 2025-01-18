@@ -10,6 +10,13 @@
     - [Napisy](./Lekcje/Napisy/)
     - [Rekurencje](./Lekcje/Rekurencje/)
     - [Szyfrowanie](./Lekcje/Szyfrowanie/)
+    - [Algorytmy geometryczne](./Lekcje/Algorytmy_geometryczne/)
+    - [Algorytmy na tekstach](./Lekcje/algorytmy_na_tekstach/)
+    - [ONP](./Lekcje/onp/)
+    - [Problem Flawiusza](./Lekcje/problem_flawiusza/)
+    - [Sortowanie](./Lekcje/sortowanie/)
+    
+
 2. [Zadania](/Zadania/):
     - [Ciagi](./Zadania/Ciagi/)
     - [Liczby](./Zadania/Liczby/)
