@@ -1,0 +1,11 @@
+zad 1
+mediana: 2
+najmniejszy element: 1
+najwiekszy element: 8
+
+zad 2
+liderem jest 2
+
+zad 4
+najdłuzsza hossa trwala 6 dni w miesiacu 8
+inwestor zarobil 13876 dolarow na najluzszej hossie

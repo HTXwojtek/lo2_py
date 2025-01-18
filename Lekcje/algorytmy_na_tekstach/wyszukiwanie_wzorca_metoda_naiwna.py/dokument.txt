@@ -1,0 +1,10 @@
+Python to popularny język programowania.
+Dzięki Pythonowi możemy tworzyć aplikacje webowe, skrypty oraz gry.
+Python jest łatwy do nauki dla początkujących programistów.
+Wiele firm korzysta z języka Python w swoich projektach.
+Zastosowania Pythona są wszechstronne.
+Programowanie w Pythonie jest bardzo elastyczne i wygodne.
+Python ma ogromną społeczność, która wspiera jego rozwój.
+Python wspiera różne style programowania, w tym programowanie obiektowe i funkcyjne.
+Popularne biblioteki takie jak NumPy i Pandas są napisane w Pythonie.
+Python jest także używany w analizie danych, uczeniu maszynowym oraz sztucznej inteligencji.
